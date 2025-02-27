@@ -36,7 +36,7 @@ Ingresa la URL objetivo (ejemplo: http://target.com/users/list.php?name=*) : htt
 El script intentará enumerar atributos y detectar aquellos vulnerables a inyección LDAP.
 
 ## Referencias
-- [HackTricks - LDAP Injection](https://book.hacktricks.xyz/pentesting/pentesting-ldap)
+- [HackTricks - LDAP Injection]([https://book.hacktricks.xyz/pentesting/pentesting-ldap])
 
 ## Advertencia
 Este script debe usarse exclusivamente para **fines educativos y pruebas en entornos autorizados**. El uso indebido de esta herramienta en sistemas sin permiso explícito puede ser ilegal y tener consecuencias legales.
